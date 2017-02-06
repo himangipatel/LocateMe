@@ -1,4 +1,4 @@
-package com.imobdev.locateme;
+package com.himangi.locateme;
 
 import android.app.ProgressDialog;
 import android.content.Context;

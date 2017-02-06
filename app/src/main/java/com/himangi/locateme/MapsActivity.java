@@ -1,4 +1,4 @@
-package com.imobdev.locateme;
+package com.himangi.locateme;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
